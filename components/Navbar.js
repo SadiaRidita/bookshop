@@ -18,8 +18,8 @@ const Navbar = () => {
     },
     {
       id: 3,
-      link: '/form',
-      name: 'Form',
+      link: '/new-book',
+      name: 'Add New Book',
     },
   ];
 
